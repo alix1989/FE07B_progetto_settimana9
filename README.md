@@ -1,3 +1,10 @@
+NOTA DELLA STUDENTESSA:
+Non sono riuscita a caricare la cartella "Assets"  con all'interno il file ".gitkeep", siccome GitHub lo interpretava come file nascosto.
+
+
+
+/////
+
 # ProgettoAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
